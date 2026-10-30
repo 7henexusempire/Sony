@@ -1,10 +1,14 @@
 name: Update Playlists
 
 on:
+  push:
+    branches:
+      - main
+      - master
   schedule:
     # Runs roughly every 7 minutes
     - cron: '*/7 * * * *'
-  workflow_dispatch: # Allows manual trigger from Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,11 +34,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u playlist.json
+          git add playlist.m3u playlist.json sonyevents.m3u sonyevents.json
 
           if git diff --staged --quiet; then
             echo "No changes found. Skipping commit."
           else
-            git commit -m "Auto-update playlist [skip ci]"
+            git commit -m "Auto-update playlists [skip ci]"
             git push
           fi
