@@ -2,27 +2,9 @@
     "credits": "created by t.me/suxeneh7",
     "category": "Nexus IND vs NZ",
     "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-    "updated_at": "2026-10-30T07:03:02Z",
-    "total": 51,
+    "updated_at": "2026-10-30T07:06:30Z",
+    "total": 39,
     "channels": [
-        {
-            "id": "853",
-            "name": "Sony BBC Earth HD Tamil",
-            "title": "Sony BBC Earth HD Tamil",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "873",
-            "name": "Sony Yay Tamil",
-            "title": "Sony Yay Tamil",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTam.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd"
-        },
         {
             "id": "162",
             "name": "Sony Ten 1 HD",
@@ -94,69 +76,6 @@
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
             "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "162",
-            "name": "Sony LIV Sports 1",
-            "title": "Sony LIV Sports 1",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "3374",
-            "name": "Sony LIV Sports 3",
-            "title": "Sony LIV Sports 3",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "3397",
-            "name": "Sony LIV Sports 4 Tamil",
-            "title": "Sony LIV Sports 4 Tamil",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "3398",
-            "name": "Sony LIV Sports 4 Telugu",
-            "title": "Sony LIV Sports 4 Telugu",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "3399",
-            "name": "Sony LIV Sports 5",
-            "title": "Sony LIV Sports 5",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "3420",
-            "name": "SONY YAY Kannada",
-            "title": "SONY YAY Kannada",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYKan.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYKan_MOB/WDVLive/index.mpd"
-        },
-        {
-            "id": "3528",
-            "name": "Sony Liv Sports 4 Kannada",
-            "title": "Sony Liv Sports 4 Kannada",
-            "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLivSports4Kan.png",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLivSports4Kan_MOB/WDVLive/index.mpd"
         },
         {
             "id": "sony-ten-1",
@@ -237,7 +156,7 @@
             "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
         },
         {
             "id": "4th_T20I___30_Oct_2026__HIN____India_Tour_of_New_Zealand_2026_1630",
@@ -246,7 +165,7 @@
             "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
         },
         {
             "id": "4th_T20I___30_Oct_2026__TAM____India_Tour_of_New_Zealand_2026_1631",
@@ -255,7 +174,7 @@
             "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
         },
         {
             "id": "4th_T20I___30_Oct_2026__TEL____India_Tour_of_New_Zealand_2026_1632",
@@ -264,16 +183,7 @@
             "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a"
-        },
-        {
-            "id": "4th_T20I___30_Oct_2026__KAN____India_Tour_of_New_Zealand_2026_1633",
-            "name": "4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026",
-            "title": "4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
         },
         {
             "id": "3512",
@@ -438,15 +348,6 @@
             "url": "https://p1stalk.7henexusempire.workers.dev/1990.m3u?pass=Nexus07"
         },
         {
-            "id": "sonybbcearth.in",
-            "name": "SONY BBC EARTH TAMIL",
-            "title": "SONY BBC EARTH TAMIL",
-            "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/3405.jpeg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07"
-        },
-        {
             "id": "Default",
             "name": "SONY TEN 4 4K",
             "title": "SONY TEN 4 4K",
@@ -454,15 +355,6 @@
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
             "url": "https://stalkmax.7henexusempire.workers.dev/476691.m3u?pass=Nexus07"
-        },
-        {
-            "id": "Default",
-            "name": "SONY SPORTS 5 HD",
-            "title": "SONY SPORTS 5 HD",
-            "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/1132.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://stalkmax.7henexusempire.workers.dev/1132.m3u?pass=Nexus07"
         }
     ]
 }
