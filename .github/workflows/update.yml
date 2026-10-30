@@ -6,7 +6,6 @@ on:
       - main
       - master
   schedule:
-    # Runs roughly every 7 minutes
     - cron: '*/7 * * * *'
   workflow_dispatch:
 
@@ -34,11 +33,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u playlist.json sonyevents.m3u sonyevents.json
+          git add playlist.m3u playlist.json sonyevents.m3u sonyevents.json t20i.m3u t20i.json
 
           if git diff --staged --quiet; then
             echo "No changes found. Skipping commit."
           else
-            git commit -m "Auto-update playlists [skip ci]"
+            git commit -m "Auto-update playlists and T20I matches [skip ci]"
             git push
           fi
