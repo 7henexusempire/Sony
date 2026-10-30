@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-10-30T08:05:33Z",
-    "total": 148,
+    "updated_at": "2026-10-30T13:34:51Z",
+    "total": 146,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -481,40 +481,22 @@
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
         },
         {
-            "id": "4th_T20I___30_Oct_2026__ENG____India_Tour_of_New_Zealand_2026_1629",
-            "name": "4th T20I - 30 Oct 2026 [ENG] - India Tour of New Zealand 2026",
-            "title": "4th T20I - 30 Oct 2026 [ENG] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
+            "id": "NorthEast_United_FC_vs_Bengaluru_FC___30_Oct_2026__ENG____MG_Indian_Super_League_2026_27_1630",
+            "name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG] - MG Indian Super League 2026-27",
+            "title": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG] - MG Indian Super League 2026-27",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f"
         },
         {
-            "id": "4th_T20I___30_Oct_2026__HIN____India_Tour_of_New_Zealand_2026_1630",
-            "name": "4th T20I - 30 Oct 2026 [HIN] - India Tour of New Zealand 2026",
-            "title": "4th T20I - 30 Oct 2026 [HIN] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
+            "id": "NorthEast_United_FC_vs_Bengaluru_FC___30_Oct_2026__HIN____MG_Indian_Super_League_2026_27_1631",
+            "name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN] - MG Indian Super League 2026-27",
+            "title": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN] - MG Indian Super League 2026-27",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
-        },
-        {
-            "id": "4th_T20I___30_Oct_2026__TAM____India_Tour_of_New_Zealand_2026_1631",
-            "name": "4th T20I - 30 Oct 2026 [TAM] - India Tour of New Zealand 2026",
-            "title": "4th T20I - 30 Oct 2026 [TAM] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
-        },
-        {
-            "id": "4th_T20I___30_Oct_2026__TEL____India_Tour_of_New_Zealand_2026_1632",
-            "name": "4th T20I - 30 Oct 2026 [TEL] - India Tour of New Zealand 2026",
-            "title": "4th T20I - 30 Oct 2026 [TEL] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793386210~acl=/*~id=42217272958275328130935857869656~hmac=42484b6a065f0cbd908b15e184ef6515c7219c0372be6667e93165cf2c891ae8"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f"
         },
         {
             "id": "154",
@@ -832,213 +814,6 @@
             "url": "https://vt-ip.vodep39240327.workers.dev/2704.m3u8"
         },
         {
-            "id": "sonyten1hd.in",
-            "name": "SONY TEN 1 HD*",
-            "title": "SONY TEN 1 HD*",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/1986.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonyten2hd.in",
-            "name": "SONY TEN 2 HD*",
-            "title": "SONY TEN 2 HD*",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/1988.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonyten3hd.in",
-            "name": "SONY TEN 3 HD*",
-            "title": "SONY TEN 3 HD*",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/1989.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonyten5hd.in",
-            "name": "SONY TEN 5 HD*",
-            "title": "SONY TEN 5 HD*",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/1990.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonymaxhd.in",
-            "name": "SONY MAX HD INDIA",
-            "title": "SONY MAX HD INDIA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/3104.m3u?pass=Nexus07"
-        },
-        {
-            "id": "I695.18644.schedulesdirect.org",
-            "name": "SONY HD USA",
-            "title": "SONY HD USA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/526.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonyhd.in",
-            "name": "SONY HD INDIA",
-            "title": "SONY HD INDIA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/1350.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonytv.uk",
-            "name": "SONY HD UK",
-            "title": "SONY HD UK",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/322.m3u?pass=Nexus07"
-        },
-        {
-            "id": "setmax.us",
-            "name": "SONY MAX USA",
-            "title": "SONY MAX USA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/3089.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonymax2.uk",
-            "name": "SONY MAX 2 UK",
-            "title": "SONY MAX 2 UK",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/3105.m3u?pass=Nexus07"
-        },
-        {
-            "id": "SONY_MARATHI_HD_US_729",
-            "name": "SONY MARATHI HD US",
-            "title": "SONY MARATHI HD US",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/2764.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonymarathi.in",
-            "name": "SONY MARATHI HD INDIA",
-            "title": "SONY MARATHI HD INDIA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/3699.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "SONY VIZHA 4K",
-            "title": "SONY VIZHA 4K",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/6446.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonypixhd.in",
-            "name": "SONY PIX HD TAM",
-            "title": "SONY PIX HD TAM",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/6442.m3u?pass=Nexus07"
-        },
-        {
-            "id": "I781.68253.schedulesdirect.org",
-            "name": "SONY AATH USA",
-            "title": "SONY AATH USA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/2353.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "SONY MAX HD UK",
-            "title": "SONY MAX HD UK",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/919.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonymaxhd.in",
-            "name": "SONY MAX HD USA",
-            "title": "SONY MAX HD USA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/2094.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "SONY MAX HD APAC",
-            "title": "SONY MAX HD APAC",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/2552.m3u?pass=Nexus07"
-        },
-        {
-            "id": "sonybbcearthhd.in",
-            "name": "SONY BBC EARTH HD INDIA",
-            "title": "SONY BBC EARTH HD INDIA",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/2490.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "SONY MOVIES",
-            "title": "SONY MOVIES",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/993.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "HIN-SERIES: SONYLIV",
-            "title": "HIN-SERIES: SONYLIV",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/5331.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "LAT | CINE SONY",
-            "title": "LAT | CINE SONY",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/7851.m3u?pass=Nexus07"
-        },
-        {
-            "id": "No details available",
-            "name": "LAT | SONY CHANNEL HD",
-            "title": "LAT | SONY CHANNEL HD",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://p1stalk.7henexusempire.workers.dev/7893.m3u?pass=Nexus07"
-        },
-        {
             "id": "sony.us",
             "name": "SONY MOVIE CHANNEL",
             "title": "SONY MOVIE CHANNEL",
@@ -1148,6 +923,15 @@
         },
         {
             "id": "sonymax.in",
+            "name": "SONY MAX USA",
+            "title": "SONY MAX USA",
+            "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/3178.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://stalkmax.7henexusempire.workers.dev/3178.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonymax.in",
             "name": "SONY MAX BK",
             "title": "SONY MAX BK",
             "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/3181.png",
@@ -1219,6 +1003,15 @@
             "url": "https://stalkmax.7henexusempire.workers.dev/474588.m3u?pass=Nexus07"
         },
         {
+            "id": "sonyaath.in",
+            "name": "SONY AATH USA",
+            "title": "SONY AATH USA",
+            "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/6222.jpeg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://stalkmax.7henexusempire.workers.dev/6222.m3u?pass=Nexus07"
+        },
+        {
             "id": "sonymarathi.in",
             "name": "SONY MARATHI USA",
             "title": "SONY MARATHI USA",
@@ -1282,6 +1075,15 @@
             "url": "https://stalkmax.7henexusempire.workers.dev/479508.m3u?pass=Nexus07"
         },
         {
+            "id": "sony.us",
+            "name": "SONY MOVIES",
+            "title": "SONY MOVIES",
+            "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/75879.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://stalkmax.7henexusempire.workers.dev/479509.m3u?pass=Nexus07"
+        },
+        {
             "id": "Default",
             "name": "SONY CINE",
             "title": "SONY CINE",
@@ -1334,6 +1136,186 @@
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "url": "https://stalkmax.7henexusempire.workers.dev/1132.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonyten1hd.in",
+            "name": "SONY TEN 1 HD*",
+            "title": "SONY TEN 1 HD*",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/1986.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonyten2hd.in",
+            "name": "SONY TEN 2 HD*",
+            "title": "SONY TEN 2 HD*",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/1988.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonyten3hd.in",
+            "name": "SONY TEN 3 HD*",
+            "title": "SONY TEN 3 HD*",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/1989.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonyten5hd.in",
+            "name": "SONY TEN 5 HD*",
+            "title": "SONY TEN 5 HD*",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/1990.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonymaxhd.in",
+            "name": "SONY MAX HD INDIA",
+            "title": "SONY MAX HD INDIA",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/3104.m3u?pass=Nexus07"
+        },
+        {
+            "id": "I695.18644.schedulesdirect.org",
+            "name": "SONY HD USA",
+            "title": "SONY HD USA",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/526.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonyhd.in",
+            "name": "SONY HD INDIA",
+            "title": "SONY HD INDIA",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/1350.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonytv.uk",
+            "name": "SONY HD UK",
+            "title": "SONY HD UK",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/322.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonymax2.uk",
+            "name": "SONY MAX 2 UK",
+            "title": "SONY MAX 2 UK",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/3105.m3u?pass=Nexus07"
+        },
+        {
+            "id": "SONY_MARATHI_HD_US_729",
+            "name": "SONY MARATHI HD US",
+            "title": "SONY MARATHI HD US",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/2764.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonymarathi.in",
+            "name": "SONY MARATHI HD INDIA",
+            "title": "SONY MARATHI HD INDIA",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/3699.m3u?pass=Nexus07"
+        },
+        {
+            "id": "No details available",
+            "name": "SONY VIZHA 4K",
+            "title": "SONY VIZHA 4K",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/6446.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonypixhd.in",
+            "name": "SONY PIX HD TAM",
+            "title": "SONY PIX HD TAM",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/6442.m3u?pass=Nexus07"
+        },
+        {
+            "id": "No details available",
+            "name": "SONY MAX HD UK",
+            "title": "SONY MAX HD UK",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/919.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonymaxhd.in",
+            "name": "SONY MAX HD USA",
+            "title": "SONY MAX HD USA",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/2094.m3u?pass=Nexus07"
+        },
+        {
+            "id": "No details available",
+            "name": "SONY MAX HD APAC",
+            "title": "SONY MAX HD APAC",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/2552.m3u?pass=Nexus07"
+        },
+        {
+            "id": "sonybbcearthhd.in",
+            "name": "SONY BBC EARTH HD INDIA",
+            "title": "SONY BBC EARTH HD INDIA",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/2490.m3u?pass=Nexus07"
+        },
+        {
+            "id": "No details available",
+            "name": "HIN-SERIES: SONYLIV",
+            "title": "HIN-SERIES: SONYLIV",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/5331.m3u?pass=Nexus07"
+        },
+        {
+            "id": "No details available",
+            "name": "LAT | CINE SONY",
+            "title": "LAT | CINE SONY",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/7851.m3u?pass=Nexus07"
+        },
+        {
+            "id": "No details available",
+            "name": "LAT | SONY CHANNEL HD",
+            "title": "LAT | SONY CHANNEL HD",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://p1stalk.7henexusempire.workers.dev/7893.m3u?pass=Nexus07"
         }
     ]
 }
