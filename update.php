@@ -238,31 +238,39 @@ $allJson = [
 ];
 file_put_contents('playlist.json', json_encode($allJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
 
-// --- 6. Filter for t20i.m3u & t20i.json (4th T20 + Specific Ten Channels) ---
+// --- 6. Filter for t20i.m3u & t20i.json ---
 $t20iChannels = [];
 
 foreach ($allChannels as $ch) {
     $text = strtolower($ch['name'] . ' ' . $ch['title']);
 
-    // Match 1: "4th T20", "4th T20I", or match event feeds (Hindi, Kannada, Tamil, etc.)
+    // 1. HARD EXCLUSIONS: Block Sony Yay (including Sony Yay Tamil), all Sony LIV Sports linear channels, and entertainment
+    if (
+        strpos($text, 'yay') !== false || 
+        strpos($text, 'liv sports') !== false || 
+        strpos($text, 'sony liv sports') !== false ||
+        strpos($text, 'sab') !== false ||
+        strpos($text, 'max') !== false ||
+        strpos($text, 'pal') !== false ||
+        strpos($text, 'wah') !== false
+    ) {
+        continue;
+    }
+
+    // 2. Match: 4th T20 event streams (Hindi, Kannada, Tamil, Telugu, English feeds)
     $is4thT20 = (
-        (strpos($text, '4th t20') !== false || strpos($text, 't20i') !== false || strpos($text, 't20') !== false) &&
-        (strpos($text, 'ind') !== false || strpos($text, 'nz') !== false || strpos($text, 'india') !== false || strpos($text, 'hindi') !== false || strpos($text, 'kannada') !== false || strpos($text, 'tamil') !== false || strpos($text, 'telugu') !== false || strpos($text, 'feed') !== false || strpos($text, 'event') !== false)
+        strpos($text, '4th t20') !== false ||
+        (strpos($text, 't20') !== false && strpos($text, '4th') !== false) ||
+        (strpos($text, 't20') !== false && (strpos($text, 'ind') !== false || strpos($text, 'india') !== false) && (strpos($text, 'nz') !== false || strpos($text, 'new zealand') !== false))
     );
 
-    // Match 2: Sony TEN 1 HD, Sony TEN 3 HD
-    $isTen1or3 = (
-        (strpos($text, 'ten 1') !== false || strpos($text, 'ten1') !== false || strpos($text, 'sports 1') !== false) ||
-        (strpos($text, 'ten 3') !== false || strpos($text, 'ten3') !== false || strpos($text, 'sports 3') !== false)
+    // 3. Match: Specific Sony TEN linear channels: TEN 1 HD, TEN 3 HD, TEN 4 (Tamil), TEN 5 (Kannada)
+    $isSonyTenTarget = (
+        strpos($text, 'ten') !== false &&
+        preg_match('/\b(?:ten\s*1|ten\s*3|ten\s*4|ten\s*5|ten1|ten3|ten4|ten5)\b/i', $text)
     );
 
-    // Match 3: Sony TEN 4 (Tamil, Telugu) & Sony TEN 5 / Kannada
-    $isTen4or5Regional = (
-        (strpos($text, 'ten 4') !== false || strpos($text, 'ten4') !== false || strpos($text, 'sports 4') !== false || strpos($text, 'tamil') !== false) ||
-        (strpos($text, 'ten 5') !== false || strpos($text, 'ten5') !== false || strpos($text, 'sports 5') !== false || strpos($text, 'kannada') !== false)
-    );
-
-    if ($is4thT20 || $isTen1or3 || $isTen4or5Regional) {
+    if ($is4thT20 || $isSonyTenTarget) {
         $ch = applyGroupBranding($ch, $customGroupName, $customGroupLogo);
         $t20iChannels[] = $ch;
     }
