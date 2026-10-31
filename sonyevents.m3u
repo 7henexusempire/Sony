@@ -8,119 +8,119 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3525c924e54154b39533d86b1c7a428a:8548b566fc6608a7d3bd601ee5f3d889
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3394be91407c5fe99d784d2f2d6d4a12:58665e1df41f9f22ed73c56384bb3f51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="891" tvg-name="Sony Ten 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91fce77f2f8056f084ed961c7ebe86ed:8214bd5eb6c21444e8ea644824affd79
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="523" tvg-name="Sony Ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=671ce7c8ccc95e0a95cba0d12831d12e:175d284c9647b6feb379e7c1650a4f82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="892" tvg-name="Sony Ten 3 HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 3 HD Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111e6908b965566e97139efddf7ef459:c87903abbc052e1f21e51ebd928d9cb1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 3 Hindi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1774" tvg-name="Sony Ten 4 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 4 Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1775" tvg-name="Sony Ten 4 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_4_Telugu.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 4 Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=494a8a050ecc5a22adab6dc304ead1b4:9b3bbf2ccb71a876a2bbeb9cde00d7bf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 5 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cb7b40cefe053ea91895e3194bb9912:467cf6d740b7212fcfc648644fb79943
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2d8709de11d5955b60c57d3c955733e:7655200b24bf82808fb8addf2f02847b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="162" tvg-name="Sony LIV Sports 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony LIV Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3373" tvg-name="Sony LIV Sports 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony LIV Sports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3374" tvg-name="Sony LIV Sports 3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony LIV Sports 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3397" tvg-name="Sony LIV Sports 4 Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony LIV Sports 4 Tamil
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f266ceda9555faf8b40c586ac40406a:92f9a1ca4c16545db65ad0578bd1baa3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3398" tvg-name="Sony LIV Sports 4 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony LIV Sports 4 Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d39c423d72a5f1ca5df1de110c80422:572a9370c22c8b5d741352ebf8f68721
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony LIV Sports 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="3528" tvg-name="Sony Liv Sports 4 Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLivSports4Kan.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Liv Sports 4 Kannada
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11ea8c4152bd55f19ecf2fcecaadf14d:e1cd78b9fc344ad20e873cff3c2354f0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1793397547~exp=1793419147~acl=/*~hmac=31cfd922b4dba00265a6f5ea9716abd065922b82d9b9d2cc23f8eb25329c7da0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793408434~exp=1793430034~acl=/*~hmac=7899e93d8b1698088735b68e509642b759b93a3121750d0ffb7c386d662f9a5b"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLivSports4Kan_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Sports Ten 1
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
@@ -156,19 +156,19 @@ https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/3512
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1793395804~exp=1793417404~acl=/*~hmac=13f564eca8d7813ddcc20ed7d3fd1a61537dbb266f0a3caac93b041e62ce9071","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793406604~exp=1793428204~acl=/*~hmac=53a962bbd55e55cb80e9c11eae51da9c5ebe457ba15e0d149941ed2e345ce8b7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://onekey.virey40690.workers.dev/mpd/3512
 #EXTINF:-1 tvg-id="3514" tvg-name="Sony Sports Ten 4 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Sports Ten 4 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/3514
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1793395804~exp=1793417404~acl=/*~hmac=13f564eca8d7813ddcc20ed7d3fd1a61537dbb266f0a3caac93b041e62ce9071","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793406604~exp=1793428204~acl=/*~hmac=53a962bbd55e55cb80e9c11eae51da9c5ebe457ba15e0d149941ed2e345ce8b7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://onekey.virey40690.workers.dev/mpd/3514
 #EXTINF:-1 tvg-id="3513" tvg-name="Sony Sports Ten 4 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Sports Ten 4 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/3513
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1793395804~exp=1793417404~acl=/*~hmac=13f564eca8d7813ddcc20ed7d3fd1a61537dbb266f0a3caac93b041e62ce9071","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793406604~exp=1793428204~acl=/*~hmac=53a962bbd55e55cb80e9c11eae51da9c5ebe457ba15e0d149941ed2e345ce8b7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://onekey.virey40690.workers.dev/mpd/3513
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Ten 3 HD" tvg-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png" group-title="Nexus IND vs NZ" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",Sony Ten 3 HD
 #EXTHTTP:{"Origin":"https://www.sonyliv.com","Referer":"https://www.sonyliv.com","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
