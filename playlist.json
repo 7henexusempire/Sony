@@ -1,6 +1,6 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-10-31T01:52:42Z",
+    "updated_at": "2026-10-31T07:54:29Z",
     "total": 145,
     "channels": [
         {
@@ -481,13 +481,13 @@
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
         },
         {
-            "id": "2nd_Unofficial_Test___Day_1___31_Oct_2026__ENG____India_A_Tour_of_New_Zealand_1626",
-            "name": "2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand",
-            "title": "2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",
+            "id": "sonylivevents-no-events",
+            "name": "No live events",
+            "title": "No live events",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793452537~acl=/*~id=50520301810998247358865953550692~hmac=d0395e0b0dd4132af88dbe997a46fb2bd427572bfa8fc1ad1ae163c41864f2fc"
+            "url": "https://no-live-events.invalid/sonylivevents"
         },
         {
             "id": "154",
