@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-10-31T18:39:26Z",
-    "total": 145,
+    "updated_at": "2026-10-31T21:52:24Z",
+    "total": 146,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -1037,6 +1037,15 @@
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "url": "https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07"
+        },
+        {
+            "id": "SONY_VIZHA_4029",
+            "name": "SONY VIZHA",
+            "title": "SONY VIZHA",
+            "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://stalkmax.7henexusempire.workers.dev/482866.m3u?pass=Nexus07"
         },
         {
             "id": "Default",
