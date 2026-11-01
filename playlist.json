@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-10-31T21:52:24Z",
-    "total": 146,
+    "updated_at": "2026-11-01T00:37:09Z",
+    "total": 151,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -481,13 +481,58 @@
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
         },
         {
-            "id": "sonylivevents-no-events",
-            "name": "No live events",
-            "title": "No live events",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "id": "2nd_Unofficial_Test___Day_2___1_Nov_2026__ENG____India_A_Tour_of_New_Zealand_1623",
+            "name": "2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG] - India A Tour of New Zealand",
+            "title": "2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG] - India A Tour of New Zealand",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://no-live-events.invalid/sonylivevents"
+            "url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793535521~acl=/*~id=96584223564410431584410456135313~hmac=4ec53fa4efedb0f8bb419ad959c440565a53fcd4c66a12290eb9824110e89fc1"
+        },
+        {
+            "id": "UFC_Fight_Night___Moicano_vs_Nolan___1_Nov_2026__ENG____UFC_Fight_Night___Moicano_vs_Nolan_1624",
+            "name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [ENG] - UFC Fight Night - Moicano vs Nolan",
+            "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [ENG] - UFC Fight Night - Moicano vs Nolan",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793535521~acl=/*~id=96584223564410431584410456135313~hmac=4ec53fa4efedb0f8bb419ad959c440565a53fcd4c66a12290eb9824110e89fc1"
+        },
+        {
+            "id": "UFC_Fight_Night___Moicano_vs_Nolan___1_Nov_2026__HIN____UFC_Fight_Night___Moicano_vs_Nolan_1625",
+            "name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [HIN] - UFC Fight Night - Moicano vs Nolan",
+            "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [HIN] - UFC Fight Night - Moicano vs Nolan",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793535521~acl=/*~id=96584223564410431584410456135313~hmac=4ec53fa4efedb0f8bb419ad959c440565a53fcd4c66a12290eb9824110e89fc1"
+        },
+        {
+            "id": "UFC_Fight_Night___Moicano_vs_Nolan___1_Nov_2026__TAM____UFC_Fight_Night___Moicano_vs_Nolan_1626",
+            "name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TAM] - UFC Fight Night - Moicano vs Nolan",
+            "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TAM] - UFC Fight Night - Moicano vs Nolan",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793535521~acl=/*~id=96584223564410431584410456135313~hmac=4ec53fa4efedb0f8bb419ad959c440565a53fcd4c66a12290eb9824110e89fc1"
+        },
+        {
+            "id": "UFC_Fight_Night___Moicano_vs_Nolan___1_Nov_2026__TEL____UFC_Fight_Night___Moicano_vs_Nolan_1627",
+            "name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TEL] - UFC Fight Night - Moicano vs Nolan",
+            "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TEL] - UFC Fight Night - Moicano vs Nolan",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793535521~acl=/*~id=96584223564410431584410456135313~hmac=4ec53fa4efedb0f8bb419ad959c440565a53fcd4c66a12290eb9824110e89fc1"
+        },
+        {
+            "id": "UFC_Fight_Night___Moicano_vs_Nolan___1_Nov_2026__KAN____UFC_Fight_Night___Moicano_vs_Nolan_1628",
+            "name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [KAN] - UFC Fight Night - Moicano vs Nolan",
+            "title": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [KAN] - UFC Fight Night - Moicano vs Nolan",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793535521~acl=/*~id=96584223564410431584410456135313~hmac=4ec53fa4efedb0f8bb419ad959c440565a53fcd4c66a12290eb9824110e89fc1"
         },
         {
             "id": "154",
