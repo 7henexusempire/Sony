@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-01T06:50:56Z",
-    "total": 150,
+    "updated_at": "2026-11-01T13:55:26Z",
+    "total": 153,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -481,49 +481,76 @@
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
         },
         {
-            "id": "5th_T20I___1_Nov_2026__ENG____India_Tour_of_New_Zealand_2026_1627",
-            "name": "5th T20I - 1 Nov 2026 [ENG] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [ENG] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "id": "1090551659-hin",
+            "name": "Inter Kashi vs FC Goa - 1 Nov 2026 [HIN]",
+            "title": "Inter Kashi vs FC Goa - 1 Nov 2026 [HIN]",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
+            "url": "https://sonydaimenew.akamaized.net/hls/live/2022316/footlive0111/HIN/std_mdh-800300010.m3u8?hdnea=exp=1793584449~acl=/*~id=640ae3c7517cfc6b17ca81753e164e47-1793541248825~hmac=fbc88ee67347f9572963f3b8aa98a01b130ca8e138ababd24e78b90927318d4d"
         },
         {
-            "id": "5th_T20I___1_Nov_2026__HIN____India_Tour_of_New_Zealand_2026_1628",
-            "name": "5th T20I - 1 Nov 2026 [HIN] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [HIN] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "id": "1090551659-hin-dai",
+            "name": "Inter Kashi vs FC Goa - 1 Nov 2026 [HIN DAI]",
+            "title": "Inter Kashi vs FC Goa - 1 Nov 2026 [HIN DAI]",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
+            "url": "https://dai.google.com/ssai/event/SP_ijgQZSTGD4Rf5_3j8Mw/master.m3u8"
         },
         {
-            "id": "5th_T20I___1_Nov_2026__TAM____India_Tour_of_New_Zealand_2026_1629",
-            "name": "5th T20I - 1 Nov 2026 [TAM] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [TAM] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "id": "1090551659-eng",
+            "name": "Inter Kashi vs FC Goa - 1 Nov 2026 [ENG]",
+            "title": "Inter Kashi vs FC Goa - 1 Nov 2026 [ENG]",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
+            "url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0111/ENG/std_mdh-800300010.m3u8?hdnea=exp=1793584449~acl=/*~id=640ae3c7517cfc6b17ca81753e164e47-1793541248825~hmac=fbc88ee67347f9572963f3b8aa98a01b130ca8e138ababd24e78b90927318d4d"
         },
         {
-            "id": "5th_T20I___1_Nov_2026__TEL____India_Tour_of_New_Zealand_2026_1630",
-            "name": "5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "id": "1090551659-eng-dai",
+            "name": "Inter Kashi vs FC Goa - 1 Nov 2026 [ENG DAI]",
+            "title": "Inter Kashi vs FC Goa - 1 Nov 2026 [ENG DAI]",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
+            "url": "https://dai.google.com/ssai/event/zW_tBz1VQmaVxfXYxwFUzA/master.m3u8"
         },
         {
-            "id": "5th_T20I___1_Nov_2026__KAN____India_Tour_of_New_Zealand_2026_1631",
-            "name": "5th T20I - 1 Nov 2026 [KAN] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [KAN] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
+            "id": "_ENG____Mumbai_City_FC_vs_Sporting_Club_Delhi_199",
+            "name": "[ENG] - Mumbai City FC vs Sporting Club Delhi",
+            "title": "[ENG] - Mumbai City FC vs Sporting Club Delhi",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+        },
+        {
+            "id": "_HIN____Mumbai_City_FC_vs_Sporting_Club_Delhi_200",
+            "name": "[HIN] - Mumbai City FC vs Sporting Club Delhi",
+            "title": "[HIN] - Mumbai City FC vs Sporting Club Delhi",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+        },
+        {
+            "id": "_ENG____Inter_Kashi_vs_FC_Goa_201",
+            "name": "[ENG] - Inter Kashi vs FC Goa",
+            "title": "[ENG] - Inter Kashi vs FC Goa",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+        },
+        {
+            "id": "_HIN____Inter_Kashi_vs_FC_Goa_202",
+            "name": "[HIN] - Inter Kashi vs FC Goa",
+            "title": "[HIN] - Inter Kashi vs FC Goa",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
         },
         {
             "id": "154",

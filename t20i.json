@@ -2,8 +2,8 @@
     "credits": "created by t.me/suxeneh7",
     "category": "Nexus IND vs NZ",
     "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-    "updated_at": "2026-11-01T06:50:56Z",
-    "total": 40,
+    "updated_at": "2026-11-01T13:55:26Z",
+    "total": 35,
     "channels": [
         {
             "id": "162",
@@ -148,51 +148,6 @@
             "group": "Nexus IND vs NZ",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
-        },
-        {
-            "id": "5th_T20I___1_Nov_2026__ENG____India_Tour_of_New_Zealand_2026_1627",
-            "name": "5th T20I - 1 Nov 2026 [ENG] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [ENG] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
-        },
-        {
-            "id": "5th_T20I___1_Nov_2026__HIN____India_Tour_of_New_Zealand_2026_1628",
-            "name": "5th T20I - 1 Nov 2026 [HIN] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [HIN] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
-        },
-        {
-            "id": "5th_T20I___1_Nov_2026__TAM____India_Tour_of_New_Zealand_2026_1629",
-            "name": "5th T20I - 1 Nov 2026 [TAM] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [TAM] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
-        },
-        {
-            "id": "5th_T20I___1_Nov_2026__TEL____India_Tour_of_New_Zealand_2026_1630",
-            "name": "5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
-        },
-        {
-            "id": "5th_T20I___1_Nov_2026__KAN____India_Tour_of_New_Zealand_2026_1631",
-            "name": "5th T20I - 1 Nov 2026 [KAN] - India Tour of New Zealand 2026",
-            "title": "5th T20I - 1 Nov 2026 [KAN] - India Tour of New Zealand 2026",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "group": "Nexus IND vs NZ",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png?updatedAt=1793203628547",
-            "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793556748~acl=/*~id=02870945935715598190153169109547~hmac=1fb3008789ef77297a7b8581a4fa4e22c425cd900d9eb496cae2050a4ae45f05"
         },
         {
             "id": "3512",
