@@ -1,6 +1,6 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-01T22:28:53Z",
+    "updated_at": "2026-11-02T01:45:54Z",
     "total": 148,
     "channels": [
         {
@@ -487,7 +487,7 @@
             "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive0111/ENG/std_mdh-800300010.m3u8?hdnea=exp=1793615044~acl=/*~id=ae2906f5af7a94e3fd23acac26ebb4b2-1793571843632~hmac=170ff829787e706b6de3ec95b41472f7a9ad915a196f8adeaf676ce0f55b218e"
+            "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive0111/ENG/std_mdh-800300010.m3u8?hdnea=exp=1793625844~acl=/*~id=e8d11e63a298fcc2700484ffbb3c4d05-1793582643960~hmac=cd01203aaa5b915d82a2cbceb9bbf95956ae23abe7c6e27314758b6d0a307c4b"
         },
         {
             "id": "1090551673-eng-dai",
@@ -505,7 +505,7 @@
             "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793614519~acl=/*~id=84897527683573254439937123163712~hmac=4c63e5f2a142775d45cfb33d07a4dc21498b88d8cd13778c87062f279e6cc893"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793625419~acl=/*~id=06952946619076706296748014949494~hmac=19600edc3c43ba3c86c2aadb67d7ab490cf260a7add27a534f6821212149fd23"
         },
         {
             "id": "154",
