@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-02T01:45:54Z",
-    "total": 148,
+    "updated_at": "2026-11-02T08:24:25Z",
+    "total": 147,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -481,31 +481,13 @@
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
         },
         {
-            "id": "1090551673-eng",
-            "name": "2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG]",
-            "title": "2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG]",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
+            "id": "sonylivevents-no-events",
+            "name": "No live events",
+            "title": "No live events",
+            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive0111/ENG/std_mdh-800300010.m3u8?hdnea=exp=1793625844~acl=/*~id=e8d11e63a298fcc2700484ffbb3c4d05-1793582643960~hmac=cd01203aaa5b915d82a2cbceb9bbf95956ae23abe7c6e27314758b6d0a307c4b"
-        },
-        {
-            "id": "1090551673-eng-dai",
-            "name": "2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG DAI]",
-            "title": "2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG DAI]",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        },
-        {
-            "id": "_ENG____2nd_Unofficial_Test___Day_3_199",
-            "name": "[ENG] - 2nd Unofficial Test - Day 3",
-            "title": "[ENG] - 2nd Unofficial Test - Day 3",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793625419~acl=/*~id=06952946619076706296748014949494~hmac=19600edc3c43ba3c86c2aadb67d7ab490cf260a7add27a534f6821212149fd23"
+            "url": "https://no-live-events.invalid/sonylivevents"
         },
         {
             "id": "154",
@@ -1334,6 +1316,15 @@
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "url": "https://p1stalk.7henexusempire.workers.dev/7893.m3u?pass=Nexus07"
+        },
+        {
+            "id": "45",
+            "name": "SONY YAY!",
+            "title": "SONY YAY!",
+            "tvg_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://premiumplugx.com/TP/stream.php?id=45"
         }
     ]
 }
