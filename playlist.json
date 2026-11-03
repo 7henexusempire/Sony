@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-03T16:07:47Z",
-    "total": 150,
+    "updated_at": "2026-11-03T21:47:36Z",
+    "total": 160,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -490,13 +490,103 @@
             "url": "https://no-live-events.invalid/sonylivevents"
         },
         {
-            "id": "_ENG____Atletico_de_Madrid_vs_FC_Bayern_Munich_205",
-            "name": "[ENG] - Atletico de Madrid vs FC Bayern Munich",
-            "title": "[ENG] - Atletico de Madrid vs FC Bayern Munich",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+            "id": "_ENG____Manchester_United_vs_AS_Roma_205",
+            "name": "[ENG] - Manchester United vs AS Roma",
+            "title": "[ENG] - Manchester United vs AS Roma",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_HIN____Manchester_United_vs_AS_Roma_206",
+            "name": "[HIN] - Manchester United vs AS Roma",
+            "title": "[HIN] - Manchester United vs AS Roma",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_TAM____Manchester_United_vs_AS_Roma_207",
+            "name": "[TAM] - Manchester United vs AS Roma",
+            "title": "[TAM] - Manchester United vs AS Roma",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_TEL____Manchester_United_vs_AS_Roma_208",
+            "name": "[TEL] - Manchester United vs AS Roma",
+            "title": "[TEL] - Manchester United vs AS Roma",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_KAN____Manchester_United_vs_AS_Roma_209",
+            "name": "[KAN] - Manchester United vs AS Roma",
+            "title": "[KAN] - Manchester United vs AS Roma",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/footlive0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_ENG____Barcelona_vs_Aston_Villa_210",
+            "name": "[ENG] - Barcelona vs Aston Villa",
+            "title": "[ENG] - Barcelona vs Aston Villa",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951817788378_UCL26_MD4_Barcelona_vs_Aston_Villa_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_ENG____Atl_tico_de_Madrid_vs_Bayern_Munich_211",
+            "name": "[ENG] - Atlético de Madrid vs Bayern Munich",
+            "title": "[ENG] - Atlético de Madrid vs Bayern Munich",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952088187378_UCL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_ENG____Villarreal_vs_PSG_212",
+            "name": "[ENG] - Villarreal vs PSG",
+            "title": "[ENG] - Villarreal vs PSG",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792953428976243_UCL26_MD4_Villarreal_vs_PSG_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_ENG____Feyenoord_vs_Inter_Milan_213",
+            "name": "[ENG] - Feyenoord vs Inter Milan",
+            "title": "[ENG] - Feyenoord vs Inter Milan",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952919459378_UCL26_MD4_Feyenoord_vs_Inter_Milan_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_ENG____LASK_vs_Slovan_Bratislava_214",
+            "name": "[ENG] - LASK vs Slovan Bratislava",
+            "title": "[ENG] - LASK vs Slovan Bratislava",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953756095378_UCL26_MD4_LASK_vs_Bratislava_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
+        },
+        {
+            "id": "_ENG____Bod__Glimt_vs_Lille_215",
+            "name": "[ENG] - Bodø/Glimt vs Lille",
+            "title": "[ENG] - Bodø/Glimt vs Lille",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953144488378_UCL26_MD4_Bodo_vs_Lille_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793783513~acl=/*~id=35274994198870697194142855864309~hmac=3ce08a15cfdbf7e2c5b318b88a796f45fb496240669eed6bb9e30df5a2adb491"
         },
         {
             "id": "154",
