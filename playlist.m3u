@@ -4,7 +4,7 @@
 ##############################################################
 
 # NexusEmpire Stream Engine by Nexus | For AniTv & StreamBox
-# Generated: 2026-11-03T01:19:17.766Z
+# Generated: 2026-11-03T08:02:07.477Z
 # Deduplication: Active (Smart disambiguation for multi-stream variants)
 # ============================================================
 # Category: Sony Network All (Sony Entertainment)
@@ -326,10 +326,6 @@ https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 #EXTINF:-1 tvg-id="sonylivevents-no-events" tvg-name="No live events" tvg-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",No live events
 https://no-live-events.invalid/sonylivevents
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-#EXTINF:-1 tvg-id="_ENG____2nd_Unofficial_Test___Day_4_199" tvg-name="[ENG] - 2nd Unofficial Test - Day 4" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - 2nd Unofficial Test - Day 4
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793709575~acl=/*~id=25246584870893853179069918266958~hmac=80cea7871275badbd4ebbcf94b112797c4a85fe27532115d7f9d964f78b375de
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/154
@@ -537,7 +533,3 @@ https://p1stalk.7henexusempire.workers.dev/7893.m3u?pass=Nexus07
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://premiumplugx.com/TP/license.php?id=45
 https://premiumplugx.com/TP/stream.php?id=45
-#EXTINF:-1 tvg-id="1090551679-eng" tvg-name="2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive0211/ENG/std_mdh-800300010.m3u8?hdnea=exp=1793710486~acl=/*~id=4ec25b9afe098234256394145cedbaea-1793667285619~hmac=90c077ad8b5f2b9991cd993c70dd6fbb810d14e15cc30c33728a21b7b23870cc
-#EXTINF:-1 tvg-id="1090551679-eng-dai" tvg-name="2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG DAI]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027943/179347590688283_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day4_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",2nd Unofficial Test - Day 4 - 3 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/JIwqLAVqRiOJQFp6IlZSKw/master.m3u8
