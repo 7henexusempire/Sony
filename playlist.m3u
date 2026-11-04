@@ -4,7 +4,7 @@
 ##############################################################
 
 # NexusEmpire Stream Engine by Nexus | For AniTv & StreamBox
-# Generated: 2026-11-04T01:43:54.312Z
+# Generated: 2026-11-04T08:07:00.400Z
 # Deduplication: Active (Smart disambiguation for multi-stream variants)
 # ============================================================
 # Category: Sony Network All (Sony Entertainment)
@@ -329,15 +329,15 @@ https://no-live-events.invalid/sonylivevents
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
 #EXTINF:-1 tvg-id="_ENG____1st_ODI_205" tvg-name="[ENG] - 1st ODI" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - 1st ODI
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793798078~acl=/*~id=65650333351383977718169888862786~hmac=5998f8f8f7d7555dca956da2d821cb0bb2d4d4ca6391b70de4b7fd250ab023d9
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8
 #EXTINF:-1 tvg-id="_HIN____1st_ODI_206" tvg-name="[HIN] - 1st ODI" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[HIN] - 1st ODI
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793798078~acl=/*~id=65650333351383977718169888862786~hmac=5998f8f8f7d7555dca956da2d821cb0bb2d4d4ca6391b70de4b7fd250ab023d9
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8
 #EXTINF:-1 tvg-id="_TAM____1st_ODI_207" tvg-name="[TAM] - 1st ODI" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[TAM] - 1st ODI
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793798078~acl=/*~id=65650333351383977718169888862786~hmac=5998f8f8f7d7555dca956da2d821cb0bb2d4d4ca6391b70de4b7fd250ab023d9
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8
 #EXTINF:-1 tvg-id="_TEL____1st_ODI_208" tvg-name="[TEL] - 1st ODI" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[TEL] - 1st ODI
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793798078~acl=/*~id=65650333351383977718169888862786~hmac=5998f8f8f7d7555dca956da2d821cb0bb2d4d4ca6391b70de4b7fd250ab023d9
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8
 #EXTINF:-1 tvg-id="_KAN____1st_ODI_209" tvg-name="[KAN] - 1st ODI" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[KAN] - 1st ODI
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793798078~acl=/*~id=65650333351383977718169888862786~hmac=5998f8f8f7d7555dca956da2d821cb0bb2d4d4ca6391b70de4b7fd250ab023d9
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/154
