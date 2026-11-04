@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-04T08:07:00Z",
-    "total": 154,
+    "updated_at": "2026-11-04T16:15:50Z",
+    "total": 152,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -481,58 +481,67 @@
             "url": "https://sliv.tgaadi.workers.dev/sonysixhd.m3u8"
         },
         {
-            "id": "sonylivevents-no-events",
-            "name": "No live events",
-            "title": "No live events",
-            "tvg_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "id": "4th_T20I___30_Oct_2026__ENG____India_Tour_of_New_Zealand_2026_1628",
+            "name": "4th T20I - 30 Oct 2026 [ENG] - India Tour of New Zealand 2026",
+            "title": "4th T20I - 30 Oct 2026 [ENG] - India Tour of New Zealand 2026",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://no-live-events.invalid/sonylivevents"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_ENG____1st_ODI_205",
-            "name": "[ENG] - 1st ODI",
-            "title": "[ENG] - 1st ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "id": "4th_T20I___30_Oct_2026__HIN____India_Tour_of_New_Zealand_2026_1629",
+            "name": "4th T20I - 30 Oct 2026 [HIN] - India Tour of New Zealand 2026",
+            "title": "4th T20I - 30 Oct 2026 [HIN] - India Tour of New Zealand 2026",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_HIN____1st_ODI_206",
-            "name": "[HIN] - 1st ODI",
-            "title": "[HIN] - 1st ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "id": "4th_T20I___30_Oct_2026__TAM____India_Tour_of_New_Zealand_2026_1630",
+            "name": "4th T20I - 30 Oct 2026 [TAM] - India Tour of New Zealand 2026",
+            "title": "4th T20I - 30 Oct 2026 [TAM] - India Tour of New Zealand 2026",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_TAM____1st_ODI_207",
-            "name": "[TAM] - 1st ODI",
-            "title": "[TAM] - 1st ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "id": "4th_T20I___30_Oct_2026__TEL____India_Tour_of_New_Zealand_2026_1631",
+            "name": "4th T20I - 30 Oct 2026 [TEL] - India Tour of New Zealand 2026",
+            "title": "4th T20I - 30 Oct 2026 [TEL] - India Tour of New Zealand 2026",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_TEL____1st_ODI_208",
-            "name": "[TEL] - 1st ODI",
-            "title": "[TEL] - 1st ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "id": "4th_T20I___30_Oct_2026__KAN____India_Tour_of_New_Zealand_2026_1632",
+            "name": "4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026",
+            "title": "4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8"
+            "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_KAN____1st_ODI_209",
-            "name": "[KAN] - 1st ODI",
-            "title": "[KAN] - 1st ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
+            "id": "_ENG____Stade_Rennais_FC_vs_Olympiacos_FC_205",
+            "name": "[ENG] - Stade Rennais FC vs Olympiacos FC",
+            "title": "[ENG] - Stade Rennais FC vs Olympiacos FC",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793821418~acl=/*~id=61344580264896319157089515664008~hmac=c47d4b3f32fe00307b9b079b3cf15b2e90e14f90fd6968c9424ab91db7adc5b8"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793850170~acl=/*~id=28942390630301894731647535007696~hmac=9ba02ad674b692a5ecb71497f7f8ed295e1cb01a3e6798a48189175f634b8c75"
+        },
+        {
+            "id": "_ENG____Dortmund_vs_Real_Betis_206",
+            "name": "[ENG] - Dortmund vs Real Betis",
+            "title": "[ENG] - Dortmund vs Real Betis",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793850170~acl=/*~id=28942390630301894731647535007696~hmac=9ba02ad674b692a5ecb71497f7f8ed295e1cb01a3e6798a48189175f634b8c75"
         },
         {
             "id": "154",
@@ -1361,33 +1370,6 @@
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "url": "https://p1stalk.7henexusempire.workers.dev/7893.m3u?pass=Nexus07"
-        },
-        {
-            "id": "45",
-            "name": "SONY YAY!",
-            "title": "SONY YAY!",
-            "tvg_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://premiumplugx.com/TP/stream.php?id=45"
-        },
-        {
-            "id": "1090551681-eng",
-            "name": "Manchester United vs AS Roma - MD 4 - 3 Nov 2026 [ENG]",
-            "title": "Manchester United vs AS Roma - MD 4 - 3 Nov 2026 [ENG]",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonydaiauth.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_mdl-700300010.m3u8?hdnea=exp=1793753689~acl=/*~id=bdbf86b5aa69d3eeb343b11e75bc336c-1793710488946~hmac=dd77df62a5a97fe89c867ccd9cdceec9fddcd11a3319dd843c5a13cce4f07b05"
-        },
-        {
-            "id": "1090551681-eng-dai",
-            "name": "Manchester United vs AS Roma - MD 4 - 3 Nov 2026 [ENG DAI]",
-            "title": "Manchester United vs AS Roma - MD 4 - 3 Nov 2026 [ENG DAI]",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8"
         }
     ]
 }
