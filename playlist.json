@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-04T16:15:50Z",
-    "total": 152,
+    "updated_at": "2026-11-04T21:58:20Z",
+    "total": 161,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -526,22 +526,103 @@
             "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_ENG____Stade_Rennais_FC_vs_Olympiacos_FC_205",
-            "name": "[ENG] - Stade Rennais FC vs Olympiacos FC",
-            "title": "[ENG] - Stade Rennais FC vs Olympiacos FC",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg",
+            "id": "_ENG____RB_Leipzig_vs_Manchester_City_205",
+            "name": "[ENG] - RB Leipzig vs Manchester City",
+            "title": "[ENG] - RB Leipzig vs Manchester City",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793850170~acl=/*~id=28942390630301894731647535007696~hmac=9ba02ad674b692a5ecb71497f7f8ed295e1cb01a3e6798a48189175f634b8c75"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
         },
         {
-            "id": "_ENG____Dortmund_vs_Real_Betis_206",
-            "name": "[ENG] - Dortmund vs Real Betis",
-            "title": "[ENG] - Dortmund vs Real Betis",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+            "id": "_HIN____RB_Leipzig_vs_Manchester_City_206",
+            "name": "[HIN] - RB Leipzig vs Manchester City",
+            "title": "[HIN] - RB Leipzig vs Manchester City",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793850170~acl=/*~id=28942390630301894731647535007696~hmac=9ba02ad674b692a5ecb71497f7f8ed295e1cb01a3e6798a48189175f634b8c75"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_TAM____RB_Leipzig_vs_Manchester_City_207",
+            "name": "[TAM] - RB Leipzig vs Manchester City",
+            "title": "[TAM] - RB Leipzig vs Manchester City",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_TEL____RB_Leipzig_vs_Manchester_City_208",
+            "name": "[TEL] - RB Leipzig vs Manchester City",
+            "title": "[TEL] - RB Leipzig vs Manchester City",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_KAN____RB_Leipzig_vs_Manchester_City_209",
+            "name": "[KAN] - RB Leipzig vs Manchester City",
+            "title": "[KAN] - RB Leipzig vs Manchester City",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_ENG____Slavia_Praha_vs_Arsenal_210",
+            "name": "[ENG] - Slavia Praha vs Arsenal",
+            "title": "[ENG] - Slavia Praha vs Arsenal",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955986716242_UCL26_MD4_Slavia_Praha_vs_Arsenal_eng_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_ENG____Borussia_Dortmund_vs_Real_Betis_211",
+            "name": "[ENG] - Borussia Dortmund vs Real Betis",
+            "title": "[ENG] - Borussia Dortmund vs Real Betis",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954724592378_UCL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_ENG____FC_Porto_vs_Napoli_212",
+            "name": "[ENG] - FC Porto vs Napoli",
+            "title": "[ENG] - FC Porto vs Napoli",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792955008635378_UCL26_MD4_Porto_vs_Napoli_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_ENG____RC_Lens_vs_Como_1907_213",
+            "name": "[ENG] - RC Lens vs Como 1907",
+            "title": "[ENG] - RC Lens vs Como 1907",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956418897243_UCL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_ENG____PSV_Eindhoven_vs_Club_Brugge_214",
+            "name": "[ENG] - PSV Eindhoven vs Club Brugge",
+            "title": "[ENG] - PSV Eindhoven vs Club Brugge",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955265419243_UCL26_MD4_PSV_vs_Brugge_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
+        },
+        {
+            "id": "_ENG____Viking_FK_vs_Sabah_FC_215",
+            "name": "[ENG] - Viking FK vs Sabah FC",
+            "title": "[ENG] - Viking FK vs Sabah FC",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956660701243_UCL26_MD4_VikingFK_vs_Sabah_FC_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793872031~acl=/*~id=78766254779686486892633909740756~hmac=bd04edbb566f7e39bce6a0e37bcd263f0e20d0db78d135eff8519c68989adb5b"
         },
         {
             "id": "154",
@@ -1093,7 +1174,7 @@
             "url": "https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07"
         },
         {
-            "id": "SONY_VIZHA_4016",
+            "id": "SONY_VIZHA_4023",
             "name": "SONY VIZHA",
             "title": "SONY VIZHA",
             "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif",
