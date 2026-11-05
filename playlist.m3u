@@ -4,7 +4,7 @@
 ##############################################################
 
 # NexusEmpire Stream Engine by Nexus | For AniTv & StreamBox
-# Generated: 2026-11-05T09:35:37.965Z
+# Generated: 2026-11-05T17:38:57.289Z
 # Deduplication: Active (Smart disambiguation for multi-stream variants)
 # ============================================================
 # Category: Sony Network All (Sony Entertainment)
@@ -335,11 +335,11 @@ https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300
 #EXTINF:-1 tvg-id="4th_T20I___30_Oct_2026__KAN____India_Tour_of_New_Zealand_2026_1632" tvg-name="4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026
 https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-#EXTINF:-1 tvg-id="_ENG____Bangladesh_vs_Afghanistan_205" tvg-name="[ENG] - Bangladesh vs Afghanistan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - Bangladesh vs Afghanistan
+#EXTINF:-1 tvg-id="_ENG____AC_Milan_vs_Ferencv_rosi_TC___MD_4_205" tvg-name="[ENG] - AC Milan vs Ferencvárosi TC - MD 4" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - AC Milan vs Ferencvárosi TC - MD 4
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793913276~acl=/*~id=19648102131375044695959228831420~hmac=ac2b150a53f5802575f8014039d03919f9ae25018214af7296c4a0d572b495f0
-#EXTINF:-1 tvg-id="_ENG____Abu_Dhabi_HSBC_Championship___Day_1_206" tvg-name="[ENG] - Abu Dhabi HSBC Championship - Day 1" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - Abu Dhabi HSBC Championship - Day 1
-https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793913276~acl=/*~id=19648102131375044695959228831420~hmac=ac2b150a53f5802575f8014039d03919f9ae25018214af7296c4a0d572b495f0
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59
+#EXTINF:-1 tvg-id="_ENG____Crystal_Palace_vs_TSG_1899_Hoffenheim_206" tvg-name="[ENG] - Crystal Palace vs TSG 1899 Hoffenheim" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - Crystal Palace vs TSG 1899 Hoffenheim
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/154
@@ -480,7 +480,7 @@ https://stalkmax.7henexusempire.workers.dev/478027.m3u?pass=Nexus07
 https://stalkmax.7henexusempire.workers.dev/6112.m3u?pass=Nexus07
 #EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="SONY BBC EARTH TAMIL" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3405.jpeg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY BBC EARTH TAMIL
 https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07
-#EXTINF:-1 tvg-id="SONY_VIZHA_4016" tvg-name="SONY VIZHA" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY VIZHA
+#EXTINF:-1 tvg-id="SONY_VIZHA_4038" tvg-name="SONY VIZHA" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY VIZHA
 https://stalkmax.7henexusempire.workers.dev/482866.m3u?pass=Nexus07
 #EXTINF:-1 tvg-id="Default" tvg-name="SONY CANAL NOVELAS" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77206.jpeg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY CANAL NOVELAS
 https://stalkmax.7henexusempire.workers.dev/480845.m3u?pass=Nexus07
