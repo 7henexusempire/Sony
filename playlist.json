@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-05T17:38:57Z",
-    "total": 152,
+    "updated_at": "2026-11-05T22:53:00Z",
+    "total": 150,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -524,24 +524,6 @@
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
-        },
-        {
-            "id": "_ENG____AC_Milan_vs_Ferencv_rosi_TC___MD_4_205",
-            "name": "[ENG] - AC Milan vs Ferencvárosi TC - MD 4",
-            "title": "[ENG] - AC Milan vs Ferencvárosi TC - MD 4",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59"
-        },
-        {
-            "id": "_ENG____Crystal_Palace_vs_TSG_1899_Hoffenheim_206",
-            "name": "[ENG] - Crystal Palace vs TSG 1899 Hoffenheim",
-            "title": "[ENG] - Crystal Palace vs TSG 1899 Hoffenheim",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793941885~acl=/*~id=31274858823283306493788517501900~hmac=b0c2e8905002ee1775faec919bdd7bbc7f61437faf59f53fda8752e77f785c59"
         },
         {
             "id": "154",
