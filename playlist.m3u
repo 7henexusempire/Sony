@@ -4,7 +4,7 @@
 ##############################################################
 
 # NexusEmpire Stream Engine by Nexus | For AniTv & StreamBox
-# Generated: 2026-11-06T03:04:34.807Z
+# Generated: 2026-11-06T10:45:39.990Z
 # Deduplication: Active (Smart disambiguation for multi-stream variants)
 # ============================================================
 # Category: Sony Network All (Sony Entertainment)
@@ -334,6 +334,12 @@ https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300
 https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020
 #EXTINF:-1 tvg-id="4th_T20I___30_Oct_2026__KAN____India_Tour_of_New_Zealand_2026_1632" tvg-name="4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026
 https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+#EXTINF:-1 tvg-id="_ENG____Pakistan_vs_UAE_205" tvg-name="[ENG] - Pakistan vs UAE" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - Pakistan vs UAE
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67
+#EXTINF:-1 tvg-id="_ENG____Abu_Dhabi_HSBC_Championship___Day_2_206" tvg-name="[ENG] - Abu Dhabi HSBC Championship - Day 2" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - Abu Dhabi HSBC Championship - Day 2
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/154
