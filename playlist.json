@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-06T17:42:56Z",
-    "total": 150,
+    "updated_at": "2026-11-06T22:26:24Z",
+    "total": 151,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -524,6 +524,15 @@
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
             "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
+        },
+        {
+            "id": "_ENG____3rd_Unofficial_Test___Day_1_205",
+            "name": "[ENG] - 3rd Unofficial Test - Day 1",
+            "title": "[ENG] - 3rd Unofficial Test - Day 1",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+            "group": "NexusEmpire | Sony Network All",
+            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045663~acl=/*~id=28535737956153203303423375868352~hmac=a95384d9f2402a41fa4d1faeee8881da5e374fd137f72e2ddee42a721369352a"
         },
         {
             "id": "154",
@@ -1075,7 +1084,7 @@
             "url": "https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07"
         },
         {
-            "id": "SONY_VIZHA_4038",
+            "id": "SONY_VIZHA_4044",
             "name": "SONY VIZHA",
             "title": "SONY VIZHA",
             "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif",

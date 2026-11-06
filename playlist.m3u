@@ -4,7 +4,7 @@
 ##############################################################
 
 # NexusEmpire Stream Engine by Nexus | For AniTv & StreamBox
-# Generated: 2026-11-06T17:42:56.455Z
+# Generated: 2026-11-06T22:26:24.493Z
 # Deduplication: Active (Smart disambiguation for multi-stream variants)
 # ============================================================
 # Category: Sony Network All (Sony Entertainment)
@@ -334,6 +334,10 @@ https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300
 https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020
 #EXTINF:-1 tvg-id="4th_T20I___30_Oct_2026__KAN____India_Tour_of_New_Zealand_2026_1632" tvg-name="4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026
 https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+#EXTINF:-1 tvg-id="_ENG____3rd_Unofficial_Test___Day_1_205" tvg-name="[ENG] - 3rd Unofficial Test - Day 1" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",[ENG] - 3rd Unofficial Test - Day 1
+# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045663~acl=/*~id=28535737956153203303423375868352~hmac=a95384d9f2402a41fa4d1faeee8881da5e374fd137f72e2ddee42a721369352a
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",Sony SAB SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/154
@@ -474,7 +478,7 @@ https://stalkmax.7henexusempire.workers.dev/478027.m3u?pass=Nexus07
 https://stalkmax.7henexusempire.workers.dev/6112.m3u?pass=Nexus07
 #EXTINF:-1 tvg-id="sonybbcearth.in" tvg-name="SONY BBC EARTH TAMIL" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/3405.jpeg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY BBC EARTH TAMIL
 https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07
-#EXTINF:-1 tvg-id="SONY_VIZHA_4038" tvg-name="SONY VIZHA" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY VIZHA
+#EXTINF:-1 tvg-id="SONY_VIZHA_4044" tvg-name="SONY VIZHA" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY VIZHA
 https://stalkmax.7henexusempire.workers.dev/482866.m3u?pass=Nexus07
 #EXTINF:-1 tvg-id="Default" tvg-name="SONY CANAL NOVELAS" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77206.jpeg" group-title="NexusEmpire | Sony Network All" group-logo="https://ik.imagekit.io/7henexusempire/nexusprime.png",SONY CANAL NOVELAS
 https://stalkmax.7henexusempire.workers.dev/480845.m3u?pass=Nexus07
