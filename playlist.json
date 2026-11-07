@@ -1,7 +1,7 @@
 {
     "credits": "created by t.me/suxeneh7",
-    "updated_at": "2026-11-07T08:56:13Z",
-    "total": 157,
+    "updated_at": "2026-11-07T15:32:29Z",
+    "total": 154,
     "channels": [
         {
             "id": "nexusempire_sony",
@@ -526,67 +526,40 @@
             "url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793398493~acl=/*~id=66360831345516168166349458233325~hmac=458545f466872b79b2451b1f7e48729ecfbc31b673b287a4201600f26d145020"
         },
         {
-            "id": "_ENG____2nd_ODI_205",
-            "name": "[ENG] - 2nd ODI",
-            "title": "[ENG] - 2nd ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+            "id": "_ENG____Chennaiyin_FC_vs_East_Bengal_FC_205",
+            "name": "[ENG] - Chennaiyin FC vs East Bengal FC",
+            "title": "[ENG] - Chennaiyin FC vs East Bengal FC",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794107196~acl=/*~id=55858952668154058487624580385919~hmac=4d999fc54ba9c1a53d83e70d14c4e42c776272b930810bb45649989fcfe133d6"
         },
         {
-            "id": "_HIN____2nd_ODI_206",
-            "name": "[HIN] - 2nd ODI",
-            "title": "[HIN] - 2nd ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+            "id": "_HIN____Chennaiyin_FC_vs_East_Bengal_FC_206",
+            "name": "[HIN] - Chennaiyin FC vs East Bengal FC",
+            "title": "[HIN] - Chennaiyin FC vs East Bengal FC",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794107196~acl=/*~id=55858952668154058487624580385919~hmac=4d999fc54ba9c1a53d83e70d14c4e42c776272b930810bb45649989fcfe133d6"
         },
         {
-            "id": "_TAM____2nd_ODI_207",
-            "name": "[TAM] - 2nd ODI",
-            "title": "[TAM] - 2nd ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+            "id": "_TAM____Chennaiyin_FC_vs_East_Bengal_FC_207",
+            "name": "[TAM] - Chennaiyin FC vs East Bengal FC",
+            "title": "[TAM] - Chennaiyin FC vs East Bengal FC",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794107196~acl=/*~id=55858952668154058487624580385919~hmac=4d999fc54ba9c1a53d83e70d14c4e42c776272b930810bb45649989fcfe133d6"
         },
         {
-            "id": "_TEL____2nd_ODI_208",
-            "name": "[TEL] - 2nd ODI",
-            "title": "[TEL] - 2nd ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+            "id": "_BEN____Chennaiyin_FC_vs_East_Bengal_FC_208",
+            "name": "[BEN] - Chennaiyin FC vs East Bengal FC",
+            "title": "[BEN] - Chennaiyin FC vs East Bengal FC",
+            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
             "group": "NexusEmpire | Sony Network All",
             "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
-        },
-        {
-            "id": "_KAN____2nd_ODI_209",
-            "name": "[KAN] - 2nd ODI",
-            "title": "[KAN] - 2nd ODI",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
-        },
-        {
-            "id": "_ENG____Sri_Lanka_vs_Bangladesh_210",
-            "name": "[ENG] - Sri Lanka vs Bangladesh",
-            "title": "[ENG] - Sri Lanka vs Bangladesh",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
-        },
-        {
-            "id": "_ENG____Abu_Dhabi_HSBC_Championship___Day_3_211",
-            "name": "[ENG] - Abu Dhabi HSBC Championship - Day 3",
-            "title": "[ENG] - Abu Dhabi HSBC Championship - Day 3",
-            "tvg_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg",
-            "group": "NexusEmpire | Sony Network All",
-            "group_logo": "https://ik.imagekit.io/7henexusempire/nexusprime.png",
-            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794083476~acl=/*~id=68300474468763697670206827742244~hmac=41a723aaf4c67fd28f816e1f30d4b4b502924fce68866117a31b018d0916f683"
+            "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794107196~acl=/*~id=55858952668154058487624580385919~hmac=4d999fc54ba9c1a53d83e70d14c4e42c776272b930810bb45649989fcfe133d6"
         },
         {
             "id": "154",
@@ -1138,7 +1111,7 @@
             "url": "https://stalkmax.7henexusempire.workers.dev/3405.m3u?pass=Nexus07"
         },
         {
-            "id": "SONY_VIZHA_4043",
+            "id": "SONY_VIZHA_4038",
             "name": "SONY VIZHA",
             "title": "SONY VIZHA",
             "tvg_logo": "http://tv.max4k.us/stalker_portal/misc/logos/320/79044.jfif",
